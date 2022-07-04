@@ -1,0 +1,16 @@
+img{
+
+     width: 350px;
+     border-radius: 50%;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+
+body{
+
+    background-color: whitesmoke;
+}
